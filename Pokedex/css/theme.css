@@ -1,0 +1,20 @@
+.logo {
+    margin: 0 auto;
+    display: block;
+}
+
+.middle {
+    text-align: center;
+}
+
+.button {
+    background-color: red;
+}
+
+.darkgrey {
+    background-color: darkgray;
+}
+
+.lightGray {
+    background-color: lightgray;
+}
